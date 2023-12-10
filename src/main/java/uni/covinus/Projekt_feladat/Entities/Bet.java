@@ -25,6 +25,4 @@ public class Bet {
     private BigDecimal amount;
 
     private String winner; // Csapat neve, amelyre a felhasználó fogad
-
-    // Standard getters and setters
 }
